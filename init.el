@@ -133,6 +133,6 @@
   (setq dashboard-set-heading-icons t
         dashboard-set-file-icons t
         dashboard-banner-logo-title "Editor MACroS!"
-        dashboard-startup-banner "~/.config/emacs/logo-nin.png"
+        dashboard-startup-banner 'official
         dashboard-center-content t)
   (dashboard-setup-startup-hook))
