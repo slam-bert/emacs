@@ -6,8 +6,7 @@
 ;; Disable package.el, use straight.el instead.
 (setq package-enable-at-startup nil)
 
-;; straight.el - alternative package manager for emacs.
-;; builds packages from source.
+;; straight.el - next-generation, purely functional package manager for the Emacs hacker.
 (defvar bootstrap-version)
 (let ((bootstrap-file
        (expand-file-name "straight/repos/straight.el/bootstrap.el" user-emacs-directory))
