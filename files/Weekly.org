@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       832600db-1760-4224-8a2b-827229b72c4f
+:END:
+#+TITLE: Weekly Agenda
+#+AUTHOR: Brandon Troller
+* TODO Practice Piano & Do Homework
+SCHEDULED: <2023-10-01>

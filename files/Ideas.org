@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       d8a0e19e-dc65-43ca-aa68-b386d3a439d1
+:END:
+#+TITLE: Fun Ideas
+#+AUTHOR: Brandon Troller
+* Plan Out Story Ideas
+** Investigate Learning Swedish And/Or Finnish
+*** Create Custom Emacs Packages

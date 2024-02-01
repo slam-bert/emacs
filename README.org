@@ -1,0 +1,6 @@
+#+TITLE: Bertmacs
+
+* Disclaimer
+This repository isn't /quite/ done yet.
+I still need to finish up the =README=, and also add the =init.org=.
+Stay tuned!
